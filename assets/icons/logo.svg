@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- gold sparkle above an open book: light over Scripture -->
+  <path fill="#C7A35A" d="M16 1.5 Q17 6 21.5 7 Q17 8 16 12.5 Q15 8 10.5 7 Q15 6 16 1.5 Z"/>
+  <path fill="#13233A" d="M3 14.5 C7 12.2 12 12.2 16 14.4 C20 12.2 25 12.2 29 14.5 L29 27 C25 24.9 20 24.9 16 26.8 C12 24.9 7 24.9 3 27 Z"/>
+  <path fill="none" stroke="#FFFDF8" stroke-width="1.2" stroke-linecap="round" d="M16 15.2 L16 26"/>
+</svg>

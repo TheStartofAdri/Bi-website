@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#13233A"/>
+  <!-- main sparkle -->
+  <path fill="#C7A35A" d="M32 12 Q34.4 27.6 49 30 Q34.4 32.4 32 48 Q29.6 32.4 15 30 Q29.6 27.6 32 12 Z"/>
+  <!-- small sparkles -->
+  <path fill="#E9D9AE" d="M46 42 Q46.9 47.1 52 48 Q46.9 48.9 46 54 Q45.1 48.9 40 48 Q45.1 47.1 46 42 Z"/>
+  <path fill="#E9D9AE" d="M17 12 Q17.7 16 21 16.7 Q17.7 17.4 17 21.4 Q16.3 17.4 13 16.7 Q16.3 16 17 12 Z"/>
+</svg>

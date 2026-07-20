@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420" fill="none" aria-hidden="true">
+  <!-- subtle church-window geometry with sparkles: decorative background art -->
+  <g stroke="#C7A35A" stroke-width="1.5" opacity="0.5">
+    <path d="M70 400 V190 Q70 70 210 70 Q350 70 350 190 V400"/>
+    <path d="M100 400 V200 Q100 100 210 100 Q320 100 320 200 V400" opacity="0.7"/>
+    <path d="M130 400 V210 Q130 130 210 130 Q290 130 290 210 V400" opacity="0.5"/>
+  </g>
+  <g fill="#C7A35A">
+    <path d="M210 22 Q212.4 37.6 227 40 Q212.4 42.4 210 58 Q207.6 42.4 193 40 Q207.6 37.6 210 22 Z"/>
+    <path d="M58 96 Q59.4 104.6 67 106 Q59.4 107.4 58 116 Q56.6 107.4 49 106 Q56.6 104.6 58 96 Z" fill="#E9D9AE"/>
+    <path d="M364 120 Q365.4 128.6 373 130 Q365.4 131.4 364 140 Q362.6 131.4 355 130 Q362.6 128.6 364 120 Z" fill="#E9D9AE"/>
+  </g>
+</svg>
